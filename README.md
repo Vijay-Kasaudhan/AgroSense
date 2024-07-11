@@ -34,10 +34,10 @@ To further enhance the accuracy and utility of AgroSense, several additional ste
 **Seasonal and Long-term Trends:** Factor in historical weather patterns and long-term climate trends to make more robust predictions.<br>
 **Hyperparameter Tuning:** Continuously refine the hyperparameters of the model to keep up with new data and changing conditions.<br>
 
-**Conclusion**
+**Conclusion**<br>
 AgroSense is designed to fulfill the primary role of an AgroConsultant, offering farmers precise crop recommendations. By providing data-driven insights, AgroSense helps farmers optimize their crop selection, enhance productivity, and achieve better economic stability. This intelligent crop recommendation system aims to empower farmers with the tools they need for smart farming, ultimately contributing to the well-being of their families and the overall economy.
 
-**Thank You**
+**Thank You**<br>
 We welcome contributions to this model to further enhance its accuracy and effectiveness. Your insights and feedback are valuable in making AgroSense a reliable tool for farmers across India. Thank you for supporting smart farming for better yields!
 
 
