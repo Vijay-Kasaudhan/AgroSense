@@ -21,6 +21,7 @@ To enhance the accuracy of our predictions, we employed and compared various Mac
 **Support Vector Machine (SVM): 97.72%** <br>
 **Random Forest (RF): 99.54%** <br>
 **K-Nearest Neighbors (KNN): 96.82%** <br>
+
 Among these, the **Random Forest algorithm demonstrated the highest accuracy at 99.54%**, making it the preferred choice for our final model.
 
 **Enhancements and Future Work**
